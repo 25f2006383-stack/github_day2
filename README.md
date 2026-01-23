@@ -1,2 +1,2 @@
 # github_day2
-# this is my first repositories
+# this is my first repo.
